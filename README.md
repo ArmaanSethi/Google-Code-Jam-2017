@@ -1,5 +1,5 @@
 # Google-Code-Jam-2017
 
-#Tidy Numbers: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
+- Tidy Numbers: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 
-#Bathroom Stalls: https://code.google.com/codejam/contest/3264486/dashboard#s=p2
+- Bathroom Stalls: https://code.google.com/codejam/contest/3264486/dashboard#s=p2
